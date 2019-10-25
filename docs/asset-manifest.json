@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/progress-chart-app/static/css/main.2cce8147.chunk.css",
-    "main.js": "/progress-chart-app/static/js/main.1710f8c3.chunk.js",
-    "main.js.map": "/progress-chart-app/static/js/main.1710f8c3.chunk.js.map",
-    "runtime~main.js": "/progress-chart-app/static/js/runtime~main.ec5c9eac.js",
-    "runtime~main.js.map": "/progress-chart-app/static/js/runtime~main.ec5c9eac.js.map",
-    "static/js/2.969c12d3.chunk.js": "/progress-chart-app/static/js/2.969c12d3.chunk.js",
-    "static/js/2.969c12d3.chunk.js.map": "/progress-chart-app/static/js/2.969c12d3.chunk.js.map",
-    "index.html": "/progress-chart-app/index.html",
-    "precache-manifest.110a5b03c6252e3055b85268c8578421.js": "/progress-chart-app/precache-manifest.110a5b03c6252e3055b85268c8578421.js",
-    "service-worker.js": "/progress-chart-app/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/progress-chart-app/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/progress-chart-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/performance-chart-app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/performance-chart-app/static/js/main.62e84492.chunk.js",
+    "main.js.map": "/performance-chart-app/static/js/main.62e84492.chunk.js.map",
+    "runtime~main.js": "/performance-chart-app/static/js/runtime~main.660e4717.js",
+    "runtime~main.js.map": "/performance-chart-app/static/js/runtime~main.660e4717.js.map",
+    "static/js/2.969c12d3.chunk.js": "/performance-chart-app/static/js/2.969c12d3.chunk.js",
+    "static/js/2.969c12d3.chunk.js.map": "/performance-chart-app/static/js/2.969c12d3.chunk.js.map",
+    "index.html": "/performance-chart-app/index.html",
+    "precache-manifest.337af0531d26ee586694fe9f7bb7bc10.js": "/performance-chart-app/precache-manifest.337af0531d26ee586694fe9f7bb7bc10.js",
+    "service-worker.js": "/performance-chart-app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/performance-chart-app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/performance-chart-app/static/media/logo.5d5d9eef.svg"
   }
 }
