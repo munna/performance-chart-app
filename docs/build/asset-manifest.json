@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/progress_chart_app/static/css/main.2cce8147.chunk.css",
+    "main.js": "/progress_chart_app/static/js/main.2014a4e6.chunk.js",
+    "main.js.map": "/progress_chart_app/static/js/main.2014a4e6.chunk.js.map",
+    "runtime~main.js": "/progress_chart_app/static/js/runtime~main.fde97eda.js",
+    "runtime~main.js.map": "/progress_chart_app/static/js/runtime~main.fde97eda.js.map",
+    "static/js/2.969c12d3.chunk.js": "/progress_chart_app/static/js/2.969c12d3.chunk.js",
+    "static/js/2.969c12d3.chunk.js.map": "/progress_chart_app/static/js/2.969c12d3.chunk.js.map",
+    "index.html": "/progress_chart_app/index.html",
+    "precache-manifest.cf3c9335fd895a4830e63a16e79286f1.js": "/progress_chart_app/precache-manifest.cf3c9335fd895a4830e63a16e79286f1.js",
+    "service-worker.js": "/progress_chart_app/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/progress_chart_app/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/progress_chart_app/static/media/logo.5d5d9eef.svg"
+  }
+}
