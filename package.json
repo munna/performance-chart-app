@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "SET PUBLIC_URL=/progress_chart_app&& react-scripts build",
+    "build": "SET PUBLIC_URL=/progress-chart-app&& react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
